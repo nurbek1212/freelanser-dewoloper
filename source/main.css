@@ -1,0 +1,22 @@
+/* .actualition img{   
+    height: 70vh;
+    object-fit: cover;
+    object-position: top;
+
+}
+.carousel{
+    height: 70vh;
+} */
+.avatarr img{
+    height: 350px;
+}
+.avatarr h1{
+    font-size: 80px;
+}   
+body{
+    padding-top: 50px;
+}   
+.about-text{
+    font-size: 35px;
+}
+    
